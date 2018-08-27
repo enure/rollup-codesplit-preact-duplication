@@ -1,0 +1,17 @@
+{
+  "name": "rollup-codesplit-test-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "preact": "^8.3.1",
+    "rollup-codesplit-test-dynamic-import": "file:../rollup-codesplit-test-dynamic-import/",
+    "rollup-codesplit-test-shared": "file:../rollup-codesplit-test-shared"
+  },
+  "devDependencies": {
+    "rollup": "^0.65.0",
+    "rollup-plugin-buble": "^0.19.2",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}

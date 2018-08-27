@@ -1,0 +1,11 @@
+{
+  "name": "rollup-codesplit-test-dynamic-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "preact": "^8.3.1",
+    "rollup-codesplit-test-shared": "file:../rollup-codesplit-test-shared"
+  }
+}

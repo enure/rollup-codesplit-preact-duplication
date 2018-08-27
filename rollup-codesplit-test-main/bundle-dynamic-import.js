@@ -1,0 +1,1 @@
+import 'rollup-codesplit-test-dynamic-import/index.jsx';
